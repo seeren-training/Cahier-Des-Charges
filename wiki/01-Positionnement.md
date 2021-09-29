@@ -6,7 +6,7 @@
 
 ___
 
-![image](./resources/cahier-des-charge.png)
+![image](https://raw.githubusercontent.com/seeren-training/Cahier-Des-Charges/master/wiki/resources/cahier-des-charge.png)
 
 ## 📑 La MOA
 
@@ -39,7 +39,7 @@ ___
 
 ## 📑 Le Format
 
-![image](./resources/specifications.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Cahier-Des-Charges/master/wiki/resources/specifications.jpg)
 
 > Le format varie en fonction du cadre méthodologique.
 

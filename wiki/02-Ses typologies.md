@@ -11,7 +11,7 @@ Le Project Management Institute, fondé en 1969, est une association professionn
 
 Leur guides et publications constiturons pour nous des ouvrages de référence.
 
-![image](./resources/pmi.png)
+![image](https://raw.githubusercontent.com/seeren-training/Cahier-Des-Charges/master/wiki/resources/pmi.png)
 
 ### 🏷️ **Domaines**
 
@@ -44,7 +44,7 @@ Les processus sont répartis en cinq groupes :
 
 La mise en place des contraintes dépend du positionnement sur les notions d'anticipation et d'adaptation.
 
-![image](./resources/adaptative.png)
+![image](https://raw.githubusercontent.com/seeren-training/Cahier-Des-Charges/master/wiki/resources/adaptative.png)
 
 ___
 

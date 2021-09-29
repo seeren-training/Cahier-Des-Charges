@@ -21,6 +21,6 @@ ___
 
 ## Thématique
 
-Les définitons sont appliquées à une thématique à définir avec les stagiaires
+Les définitions sont appliquées à une thématique à définir avec les stagiaires
 
 ___
