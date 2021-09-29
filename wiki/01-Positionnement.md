@@ -3,7 +3,6 @@
 *  🔖 **MOA**
 *  🔖 **MOE**
 *  🔖 **Le format**
-*  🔖 **La position**
 
 ___
 
@@ -70,9 +69,3 @@ De manière générale, ce type de besoin est retranscrit dans un document qui r
 ### 🏷️ **Itératif**
 
 Dans un cadre itératif, le cahier des charges pour sa partie spécifications fonctionnels se restreint aux informations présentes dans le backlog. Les histoires utilisateurs représentent la demande. La contractualisation d'un objectif de sprint permet au client de se couvrir et il n'existe pas de cahier des charges entant que tel.
-
-___
-
-## 📑 La position
-
-Quece soit en itératif ou en séquentiel et quelque soiut le format. L'expression du besoin est l'étape préliminaire permettant le démarage d'un projet et necessaire pour étudier la faisabilité puis la plannification.

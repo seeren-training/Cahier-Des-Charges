@@ -1,7 +1,7 @@
 # Ses typologies
 
 *  🔖 **PMI**
-*  🔖 **Contexte**
+*  🔖 **Contextes**
 
 ___
 
@@ -48,17 +48,20 @@ La mise en place des contraintes dépend du positionnement sur les notions d'ant
 
 ___
 
-## 📑 Contexte
+## 📑 Contextes
 
 Un cachier des charges peut s'appliquer à des produits qui connaissent un contexte différent.
 
 ### 🏷️ **Cahier des charges fonctionnel**
 
 Dans le déroulement d'un projet, le cahier des charges fonctionnel précède l'étude technique qui conclut la phase d'avant-projet. Pour arriver au cahier des charges fonctionnel, plusieurs étapes sont donc nécessaires. 
+
 * Étude d'opportunité
 * Étude de faisabilité
 * Analyse fonctionnelle
 * Analyse de la valeur
+
+> Au prochain chapitre nous allons faire un focus sur l'analyse fonctionnelle.
 
 ### 🏷️ **Cadre d'un ERP**
 
