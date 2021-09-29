@@ -12,11 +12,10 @@ ___
 
 ## Sommaire
 
-* [Sa position](https://github.com/seeren-training/Cahier-Des-Charges/wiki/01)
+* [Positionnement](https://github.com/seeren-training/Cahier-Des-Charges/wiki/01)
 * [Ses typologies](https://github.com/seeren-training/Cahier-Des-Charges/wiki/02)
-* [L'analyse fonctionnelle](https://github.com/seeren-training/Cahier-Des-Charges/wiki/03)
-* [L'analyse technique](https://github.com/seeren-training/Cahier-Des-Charges/wiki/04)
-* [La rédaction](https://github.com/seeren-training/Cahier-Des-Charges/wiki/05)
+* [Analyse fonctionnelle](https://github.com/seeren-training/Cahier-Des-Charges/wiki/03)
+* [La rédaction](https://github.com/seeren-training/Cahier-Des-Charges/wiki/04)
 
 ___
 

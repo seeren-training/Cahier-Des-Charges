@@ -31,7 +31,6 @@ Outre cette définition formelle, certaines règles d’usage sont à respecter 
 
 C’est la fonction qui satisfait le besoin. Elle assure la prestation du service rendu. C'est la raison pour laquelle le produit a été créé. Une fonction principale peut être répartie en plusieurs fonctions élémentaires (action attendue d'un produit pour répondre à un élément du besoin, traduisant la raison d’être d’un sous-système du produit).
 
-
 * Fonction contrainte
 
 > « Une contrainte c'est une limitation à la liberté de choix du concepteur-réalisateur d’un produit ».
