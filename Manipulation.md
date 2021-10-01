@@ -32,6 +32,7 @@ Groupe B
 * Gaelle
 * Claire
 * William
+* https://teams.microsoft.com/l/meetup-join/19:dc740a3103d6443baeb4e4d306cd7e4b@thread.tacv2/1633088929866?context=%7B%22Tid%22:%22373016f8-79a9-4eed-80d2-100ce948d960%22,%22Oid%22:%22a239b161-0564-42bc-86e6-797417222b18%22%7D
 
 
 ___
