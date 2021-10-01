@@ -7,7 +7,7 @@ Vous devez identifier les fonctions des produits suivants:
 ![image](produit-b.jpg)
 ![image](produit-a.png)
 
-Il y aura donc 2 groupes le format doit être à l'orale avec le PO qui centralise l'identification.
+Il y aura donc 2 groupes le format doit être à l'orale avec le PO qui centralise l'identification. Je vous conseil un format comme le markdown et sous forme de tableau...
 
 Groupe A
 
