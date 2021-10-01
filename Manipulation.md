@@ -1,5 +1,18 @@
 # Manipulation
 
+## Manipulation Redaction
+
+En rejoignant vos groupes respectifs.
+Proposer une trame de cahier des charges respectant la trame observée.
+
+Cette trame doit être rédigée en répartissant le travail, de une à plusieurs personnes s'occupent d'un chapitre du cahier des charges et le travail est fusionné par le PO.
+
+Git: https://github.com/seeren-training/DevOps/wiki/02#git-et-workflow
+
+___
+
+
+
 ## Manipulation Identification
 
 Vous devez identifier les fonctions des produits suivants:
